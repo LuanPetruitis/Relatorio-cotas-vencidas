@@ -1,0 +1,1032 @@
+{
+    "100A": {
+        "total": 118919.51000000002,
+        "total_acordos": 32966.03,
+        "total_debitos": 85953.48000000003
+    },
+    "100B": {
+        "total": 226867.9400000002,
+        "total_acordos": 51096.57,
+        "total_debitos": 175771.37000000008
+    },
+    "101A": {
+        "total": 119273.06000000003,
+        "total_acordos": 32966.03,
+        "total_debitos": 86307.03000000003
+    },
+    "102B": {
+        "total": 227509.0700000002,
+        "total_acordos": 51096.57,
+        "total_debitos": 176412.5000000001
+    },
+    "103B": {
+        "total": 227943.4800000002,
+        "total_acordos": 51096.57,
+        "total_debitos": 176846.9100000001
+    },
+    "104A": {
+        "total": 119570.14000000003,
+        "total_acordos": 32966.03,
+        "total_debitos": 86604.11000000003
+    },
+    "105B": {
+        "total": 228240.5600000002,
+        "total_acordos": 51096.57,
+        "total_debitos": 177143.99000000008
+    },
+    "108A": {
+        "total": 119879.55000000003,
+        "total_acordos": 32966.03,
+        "total_debitos": 86913.52000000003
+    },
+    "109A": {
+        "total": 120172.51000000004,
+        "total_acordos": 32966.03,
+        "total_debitos": 87206.48000000004
+    },
+    "109B": {
+        "total": 228533.5200000002,
+        "total_acordos": 51096.57,
+        "total_debitos": 177436.95000000007
+    },
+    "110A": {
+        "total": 120793.52000000005,
+        "total_acordos": 32966.03,
+        "total_debitos": 87827.49000000005
+    },
+    "110B": {
+        "total": 228826.48000000019,
+        "total_acordos": 51096.57,
+        "total_debitos": 177729.91000000006
+    },
+    "111A": {
+        "total": 121102.93000000005,
+        "total_acordos": 32966.03,
+        "total_debitos": 88136.90000000005
+    },
+    "111B": {
+        "total": 229445.3000000002,
+        "total_acordos": 51096.57,
+        "total_debitos": 178348.73000000007
+    },
+    "112B": {
+        "total": 229739.0800000002,
+        "total_acordos": 51096.57,
+        "total_debitos": 178642.51000000007
+    },
+    "113A": {
+        "total": 121412.34000000005,
+        "total_acordos": 32966.03,
+        "total_debitos": 88446.31000000006
+    },
+    "113B": {
+        "total": 230357.9000000002,
+        "total_acordos": 51096.57,
+        "total_debitos": 179261.33000000007
+    },
+    "114A": {
+        "total": 121709.42000000006,
+        "total_acordos": 32966.03,
+        "total_debitos": 88743.39000000006
+    },
+    "114B": {
+        "total": 230654.98000000019,
+        "total_acordos": 51096.57,
+        "total_debitos": 179558.41000000006
+    },
+    "115A": {
+        "total": 122006.50000000006,
+        "total_acordos": 32966.03,
+        "total_debitos": 89040.47000000006
+    },
+    "115B": {
+        "total": 230952.06000000017,
+        "total_acordos": 51096.57,
+        "total_debitos": 179855.49000000005
+    },
+    "116A": {
+        "total": 122315.91000000006,
+        "total_acordos": 32966.03,
+        "total_debitos": 89349.88000000006
+    },
+    "116B": {
+        "total": 231261.47000000018,
+        "total_acordos": 51096.57,
+        "total_debitos": 180164.90000000005
+    },
+    "117A": {
+        "total": 122609.69000000006,
+        "total_acordos": 32966.03,
+        "total_debitos": 89643.66000000006
+    },
+    "117B": {
+        "total": 231599.3900000002,
+        "total_acordos": 51096.57,
+        "total_debitos": 180502.82000000007
+    },
+    "118A": {
+        "total": 122919.10000000006,
+        "total_acordos": 32966.03,
+        "total_debitos": 89953.07000000007
+    },
+    "118B": {
+        "total": 231908.8000000002,
+        "total_acordos": 51096.57,
+        "total_debitos": 180812.23000000007
+    },
+    "119B": {
+        "total": 232201.76000000018,
+        "total_acordos": 51096.57,
+        "total_debitos": 181105.19000000006
+    },
+    "11A": {
+        "total": 120456.42000000004,
+        "total_acordos": 32966.03,
+        "total_debitos": 87490.39000000004
+    },
+    "120A": {
+        "total": 123212.06000000007,
+        "total_acordos": 32966.03,
+        "total_debitos": 90246.03000000007
+    },
+    "120B": {
+        "total": 232494.72000000018,
+        "total_acordos": 51096.57,
+        "total_debitos": 181398.15000000005
+    },
+    "121A": {
+        "total": 123521.47000000007,
+        "total_acordos": 32966.03,
+        "total_debitos": 90555.44000000008
+    },
+    "122A": {
+        "total": 123815.25000000007,
+        "total_acordos": 32966.03,
+        "total_debitos": 90849.22000000007
+    },
+    "122B": {
+        "total": 232788.50000000017,
+        "total_acordos": 51096.57,
+        "total_debitos": 181691.93000000005
+    },
+    "124B": {
+        "total": 233085.58000000016,
+        "total_acordos": 51096.57,
+        "total_debitos": 181989.01000000004
+    },
+    "125B": {
+        "total": 247630.28000000014,
+        "total_acordos": 65344.19,
+        "total_debitos": 182286.09000000003
+    },
+    "127A": {
+        "total": 128870.03000000007,
+        "total_acordos": 37727.03,
+        "total_debitos": 91143.00000000007
+    },
+    "127B": {
+        "total": 247924.06000000014,
+        "total_acordos": 65344.19,
+        "total_debitos": 182579.87000000002
+    },
+    "128A": {
+        "total": 129179.44000000008,
+        "total_acordos": 37727.03,
+        "total_debitos": 91452.41000000008
+    },
+    "128B": {
+        "total": 248233.47000000015,
+        "total_acordos": 65344.19,
+        "total_debitos": 182889.28000000003
+    },
+    "129B": {
+        "total": 248526.43000000014,
+        "total_acordos": 65344.19,
+        "total_debitos": 183182.24000000002
+    },
+    "12B": {
+        "total": 206910.28000000023,
+        "total_acordos": 50701.15,
+        "total_debitos": 156209.13000000012
+    },
+    "130A": {
+        "total": 129472.40000000008,
+        "total_acordos": 37727.03,
+        "total_debitos": 91745.37000000008
+    },
+    "130B": {
+        "total": 253003.43000000014,
+        "total_acordos": 67165.44,
+        "total_debitos": 185837.99000000002
+    },
+    "131A": {
+        "total": 129781.81000000008,
+        "total_acordos": 37727.03,
+        "total_debitos": 92054.78000000009
+    },
+    "131B": {
+        "total": 253312.84000000014,
+        "total_acordos": 67165.44,
+        "total_debitos": 186147.40000000002
+    },
+    "132B": {
+        "total": 253606.62000000014,
+        "total_acordos": 67165.44,
+        "total_debitos": 186441.18000000002
+    },
+    "133A": {
+        "total": 130091.22000000009,
+        "total_acordos": 37727.03,
+        "total_debitos": 92364.19000000009
+    },
+    "134A": {
+        "total": 130388.30000000009,
+        "total_acordos": 37727.03,
+        "total_debitos": 92661.27000000009
+    },
+    "134B": {
+        "total": 253669.12000000014,
+        "total_acordos": 67165.44,
+        "total_debitos": 186503.68000000002
+    },
+    "135B": {
+        "total": 253966.20000000013,
+        "total_acordos": 67165.44,
+        "total_debitos": 186800.76
+    },
+    "136A": {
+        "total": 130697.7100000001,
+        "total_acordos": 37727.03,
+        "total_debitos": 92970.6800000001
+    },
+    "136B": {
+        "total": 254275.61000000013,
+        "total_acordos": 67165.44,
+        "total_debitos": 187110.17
+    },
+    "137B": {
+        "total": 254338.11000000013,
+        "total_acordos": 67165.44,
+        "total_debitos": 187172.67
+    },
+    "138A": {
+        "total": 131007.1200000001,
+        "total_acordos": 37727.03,
+        "total_debitos": 93280.0900000001
+    },
+    "139A": {
+        "total": 131300.0800000001,
+        "total_acordos": 37727.03,
+        "total_debitos": 93573.0500000001
+    },
+    "139B": {
+        "total": 254631.07000000012,
+        "total_acordos": 67165.44,
+        "total_debitos": 187465.63
+    },
+    "140B": {
+        "total": 255196.42000000013,
+        "total_acordos": 67165.44,
+        "total_debitos": 188030.98
+    },
+    "141A": {
+        "total": 156234.8600000001,
+        "total_acordos": 37727.03,
+        "total_debitos": 118507.8300000001
+    },
+    "141B": {
+        "total": 255401.92000000013,
+        "total_acordos": 67165.44,
+        "total_debitos": 188236.48
+    },
+    "144A": {
+        "total": 156528.6400000001,
+        "total_acordos": 37727.03,
+        "total_debitos": 118801.6100000001
+    },
+    "145B": {
+        "total": 255694.88000000012,
+        "total_acordos": 67165.44,
+        "total_debitos": 188529.44
+    },
+    "146A": {
+        "total": 156821.6000000001,
+        "total_acordos": 37727.03,
+        "total_debitos": 119094.57000000011
+    },
+    "146B": {
+        "total": 255987.8400000001,
+        "total_acordos": 67165.44,
+        "total_debitos": 188822.4
+    },
+    "14A": {
+        "total": 155941.0800000001,
+        "total_acordos": 37727.03,
+        "total_debitos": 118214.0500000001
+    },
+    "14B": {
+        "total": 254903.46000000014,
+        "total_acordos": 67165.44,
+        "total_debitos": 187738.02000000002
+    },
+    "151B": {
+        "total": 257255.8300000001,
+        "total_acordos": 67863.96,
+        "total_debitos": 189391.87
+    },
+    "152A": {
+        "total": 157118.68000000008,
+        "total_acordos": 37727.03,
+        "total_debitos": 119391.65000000011
+    },
+    "152B": {
+        "total": 257609.8700000001,
+        "total_acordos": 67863.96,
+        "total_debitos": 189745.91
+    },
+    "15A": {
+        "total": 34608.270000000004,
+        "total_acordos": 7683.720000000002,
+        "total_debitos": 26924.550000000007
+    },
+    "15B": {
+        "total": 256958.75000000012,
+        "total_acordos": 67863.96,
+        "total_debitos": 189094.79
+    },
+    "16A": {
+        "total": 157402.59000000008,
+        "total_acordos": 37727.03,
+        "total_debitos": 119675.56000000011
+    },
+    "16B": {
+        "total": 207478.10000000024,
+        "total_acordos": 50701.15,
+        "total_debitos": 156776.95000000013
+    },
+    "18A": {
+        "total": 157749.0000000001,
+        "total_acordos": 37727.03,
+        "total_debitos": 120021.97000000012
+    },
+    "18B": {
+        "total": 276893.7800000001,
+        "total_acordos": 86863.96,
+        "total_debitos": 190029.82
+    },
+    "1A": {
+        "total": 118186.12000000002,
+        "total_acordos": 32525.600000000002,
+        "total_debitos": 85660.52000000002
+    },
+    "1B": {
+        "total": 204266.49000000022,
+        "total_acordos": 48057.36,
+        "total_debitos": 156209.13000000012
+    },
+    "20A": {
+        "total": 36488.420000000006,
+        "total_acordos": 8076.680000000002,
+        "total_debitos": 28411.740000000005
+    },
+    "21A": {
+        "total": 158301.1900000001,
+        "total_acordos": 37727.03,
+        "total_debitos": 120574.16000000012
+    },
+    "22A": {
+        "total": 37275.72000000001,
+        "total_acordos": 8076.680000000002,
+        "total_debitos": 29199.040000000005
+    },
+    "22B": {
+        "total": 277474.4800000001,
+        "total_acordos": 86863.96,
+        "total_debitos": 190610.52000000002
+    },
+    "23A": {
+        "total": 158585.1000000001,
+        "total_acordos": 37727.03,
+        "total_debitos": 120858.07000000012
+    },
+    "23B": {
+        "total": 277758.3900000001,
+        "total_acordos": 86863.96,
+        "total_debitos": 190894.43000000002
+    },
+    "24A": {
+        "total": 158857.4900000001,
+        "total_acordos": 37727.03,
+        "total_debitos": 121130.46000000012
+    },
+    "24B": {
+        "total": 208147.88000000024,
+        "total_acordos": 50701.15,
+        "total_debitos": 157446.73000000013
+    },
+    "25A": {
+        "total": 159129.88000000012,
+        "total_acordos": 37727.03,
+        "total_debitos": 121402.85000000012
+    },
+    "25B": {
+        "total": 278030.7800000001,
+        "total_acordos": 86863.96,
+        "total_debitos": 191166.82000000004
+    },
+    "26A": {
+        "total": 42294.40000000001,
+        "total_acordos": 12527.540000000003,
+        "total_debitos": 29766.860000000004
+    },
+    "26B": {
+        "total": 278314.69000000006,
+        "total_acordos": 86863.96,
+        "total_debitos": 191450.73000000004
+    },
+    "27A": {
+        "total": 159398.16000000012,
+        "total_acordos": 37727.03,
+        "total_debitos": 121671.13000000012
+    },
+    "28A": {
+        "total": 78551.65000000001,
+        "total_acordos": 12527.540000000003,
+        "total_debitos": 66024.11
+    },
+    "28B": {
+        "total": 278598.60000000003,
+        "total_acordos": 86863.96,
+        "total_debitos": 191734.64000000004
+    },
+    "29A": {
+        "total": 79131.13,
+        "total_acordos": 12527.540000000003,
+        "total_debitos": 66603.59
+    },
+    "29B": {
+        "total": 278865.24000000005,
+        "total_acordos": 86863.96,
+        "total_debitos": 192001.28000000006
+    },
+    "2A": {
+        "total": 158017.2800000001,
+        "total_acordos": 37727.03,
+        "total_debitos": 120290.25000000012
+    },
+    "2B": {
+        "total": 277162.0600000001,
+        "total_acordos": 86863.96,
+        "total_debitos": 190298.1
+    },
+    "30B": {
+        "total": 279131.88000000006,
+        "total_acordos": 86863.96,
+        "total_debitos": 192267.92000000007
+    },
+    "31A": {
+        "total": 160929.39000000013,
+        "total_acordos": 38724.35,
+        "total_debitos": 122205.04000000012
+    },
+    "31B": {
+        "total": 279415.79000000004,
+        "total_acordos": 86863.96,
+        "total_debitos": 192551.83000000007
+    },
+    "32A": {
+        "total": 161197.67000000013,
+        "total_acordos": 38724.35,
+        "total_debitos": 122473.32000000012
+    },
+    "32B": {
+        "total": 279784.59,
+        "total_acordos": 86863.96,
+        "total_debitos": 192920.63000000006
+    },
+    "33A": {
+        "total": 84242.45000000001,
+        "total_acordos": 17071.04,
+        "total_debitos": 67171.41
+    },
+    "33B": {
+        "total": 209081.62000000023,
+        "total_acordos": 50701.15,
+        "total_debitos": 158380.47000000012
+    },
+    "34B": {
+        "total": 280056.98000000004,
+        "total_acordos": 86863.96,
+        "total_debitos": 193193.02000000008
+    },
+    "35A": {
+        "total": 161470.06000000014,
+        "total_acordos": 38724.35,
+        "total_debitos": 122745.71000000012
+    },
+    "35B": {
+        "total": 212902.94000000024,
+        "total_acordos": 51096.57,
+        "total_debitos": 161806.3700000001
+    },
+    "36B": {
+        "total": 280465.89,
+        "total_acordos": 86863.96,
+        "total_debitos": 193601.93000000008
+    },
+    "37A": {
+        "total": 161863.34000000014,
+        "total_acordos": 38724.35,
+        "total_debitos": 123138.99000000012
+    },
+    "38A": {
+        "total": 162147.25000000015,
+        "total_acordos": 38724.35,
+        "total_debitos": 123422.90000000013
+    },
+    "38B": {
+        "total": 280812.3,
+        "total_acordos": 86863.96,
+        "total_debitos": 193948.34000000008
+    },
+    "39A": {
+        "total": 162458.03000000014,
+        "total_acordos": 38724.35,
+        "total_debitos": 123733.68000000012
+    },
+    "39B": {
+        "total": 281078.94,
+        "total_acordos": 86863.96,
+        "total_debitos": 194214.9800000001
+    },
+    "3A": {
+        "total": 2641.58,
+        "total_acordos": 507.0,
+        "total_debitos": 2134.58
+    },
+    "40A": {
+        "total": 162724.67000000016,
+        "total_acordos": 38724.35,
+        "total_debitos": 124000.32000000012
+    },
+    "40B": {
+        "total": 281662.11000000004,
+        "total_acordos": 86863.96,
+        "total_debitos": 194798.1500000001
+    },
+    "41A": {
+        "total": 169508.58000000016,
+        "total_acordos": 45224.35,
+        "total_debitos": 124284.23000000013
+    },
+    "41B": {
+        "total": 281946.02,
+        "total_acordos": 86863.96,
+        "total_debitos": 195082.0600000001
+    },
+    "43B": {
+        "total": 282229.93,
+        "total_acordos": 86863.96,
+        "total_debitos": 195365.97000000012
+    },
+    "44A": {
+        "total": 169905.97000000018,
+        "total_acordos": 45224.35,
+        "total_debitos": 124681.62000000013
+    },
+    "44B": {
+        "total": 282502.32,
+        "total_acordos": 86863.96,
+        "total_debitos": 195638.36000000013
+    },
+    "45A": {
+        "total": 170178.3600000002,
+        "total_acordos": 45224.35,
+        "total_debitos": 124954.01000000013
+    },
+    "45B": {
+        "total": 296774.71,
+        "total_acordos": 100863.96,
+        "total_debitos": 195910.75000000015
+    },
+    "46B": {
+        "total": 297058.62,
+        "total_acordos": 100863.96,
+        "total_debitos": 196194.66000000015
+    },
+    "47B": {
+        "total": 213439.50000000023,
+        "total_acordos": 51096.57,
+        "total_debitos": 162342.9300000001
+    },
+    "49B": {
+        "total": 297450.26,
+        "total_acordos": 100863.96,
+        "total_debitos": 196586.30000000016
+    },
+    "4A": {
+        "total": 11059.790000000003,
+        "total_acordos": 7683.720000000002,
+        "total_debitos": 3376.0699999999997
+    },
+    "4B": {
+        "total": 281351.33,
+        "total_acordos": 86863.96,
+        "total_debitos": 194487.3700000001
+    },
+    "50A": {
+        "total": 84821.93000000001,
+        "total_acordos": 17071.04,
+        "total_debitos": 67750.89
+    },
+    "50B": {
+        "total": 297989.29000000004,
+        "total_acordos": 100863.96,
+        "total_debitos": 197125.3300000002
+    },
+    "51A": {
+        "total": 91760.31000000001,
+        "total_acordos": 23441.600000000002,
+        "total_debitos": 68318.71
+    },
+    "51B": {
+        "total": 298273.2,
+        "total_acordos": 100863.96,
+        "total_debitos": 197409.2400000002
+    },
+    "52A": {
+        "total": 170446.6400000002,
+        "total_acordos": 45224.35,
+        "total_debitos": 125222.29000000012
+    },
+    "52B": {
+        "total": 298541.48000000004,
+        "total_acordos": 100863.96,
+        "total_debitos": 197677.5200000002
+    },
+    "53A": {
+        "total": 170730.5500000002,
+        "total_acordos": 45224.35,
+        "total_debitos": 125506.20000000013
+    },
+    "54A": {
+        "total": 173835.95000000022,
+        "total_acordos": 48057.36,
+        "total_debitos": 125778.59000000013
+    },
+    "55A": {
+        "total": 174108.34000000023,
+        "total_acordos": 48057.36,
+        "total_debitos": 126050.98000000013
+    },
+    "57A": {
+        "total": 174376.62000000023,
+        "total_acordos": 48057.36,
+        "total_debitos": 126319.26000000013
+    },
+    "57B": {
+        "total": 213976.06000000023,
+        "total_acordos": 51096.57,
+        "total_debitos": 162879.4900000001
+    },
+    "58A": {
+        "total": 174660.53000000023,
+        "total_acordos": 48057.36,
+        "total_debitos": 126603.17000000013
+    },
+    "58B": {
+        "total": 298825.39,
+        "total_acordos": 100863.96,
+        "total_debitos": 197961.4300000002
+    },
+    "59A": {
+        "total": 101904.37000000001,
+        "total_acordos": 32525.600000000002,
+        "total_debitos": 69378.77
+    },
+    "59B": {
+        "total": 220493.56000000023,
+        "total_acordos": 51096.57,
+        "total_debitos": 169396.9900000001
+    },
+    "5B": {
+        "total": 297722.65,
+        "total_acordos": 100863.96,
+        "total_debitos": 196858.69000000018
+    },
+    "60B": {
+        "total": 221026.84000000023,
+        "total_acordos": 51096.57,
+        "total_debitos": 169930.2700000001
+    },
+    "61A": {
+        "total": 174944.44000000024,
+        "total_acordos": 48057.36,
+        "total_debitos": 126887.08000000013
+    },
+    "61B": {
+        "total": 299643.20999999996,
+        "total_acordos": 100863.96,
+        "total_debitos": 198779.2500000002
+    },
+    "62A": {
+        "total": 102172.65000000001,
+        "total_acordos": 32525.600000000002,
+        "total_debitos": 69647.05
+    },
+    "63A": {
+        "total": 175228.35000000024,
+        "total_acordos": 48057.36,
+        "total_debitos": 127170.99000000014
+    },
+    "63B": {
+        "total": 299927.11999999994,
+        "total_acordos": 100863.96,
+        "total_debitos": 199063.1600000002
+    },
+    "64B": {
+        "total": 300199.50999999995,
+        "total_acordos": 100863.96,
+        "total_debitos": 199335.55000000022
+    },
+    "65A": {
+        "total": 175500.74000000025,
+        "total_acordos": 48057.36,
+        "total_debitos": 127443.38000000014
+    },
+    "66B": {
+        "total": 300483.4199999999,
+        "total_acordos": 100863.96,
+        "total_debitos": 199619.46000000022
+    },
+    "67A": {
+        "total": 175769.02000000025,
+        "total_acordos": 48057.36,
+        "total_debitos": 127711.66000000013
+    },
+    "67B": {
+        "total": 300751.69999999995,
+        "total_acordos": 100863.96,
+        "total_debitos": 199887.74000000022
+    },
+    "68A": {
+        "total": 102740.47000000002,
+        "total_acordos": 32525.600000000002,
+        "total_debitos": 70214.87000000001
+    },
+    "68B": {
+        "total": 301035.6099999999,
+        "total_acordos": 100863.96,
+        "total_debitos": 200171.65000000023
+    },
+    "69A": {
+        "total": 103007.11000000002,
+        "total_acordos": 32525.600000000002,
+        "total_debitos": 70481.51000000001
+    },
+    "6B": {
+        "total": 299359.3,
+        "total_acordos": 100863.96,
+        "total_debitos": 198495.3400000002
+    },
+    "70A": {
+        "total": 117538.12000000002,
+        "total_acordos": 32525.600000000002,
+        "total_debitos": 85012.52000000002
+    },
+    "70B": {
+        "total": 301302.24999999994,
+        "total_acordos": 100863.96,
+        "total_debitos": 200438.29000000024
+    },
+    "71A": {
+        "total": 188088.45000000024,
+        "total_acordos": 48057.36,
+        "total_debitos": 140031.09000000014
+    },
+    "71B": {
+        "total": 301611.6599999999,
+        "total_acordos": 100863.96,
+        "total_debitos": 200747.70000000024
+    },
+    "72A": {
+        "total": 188382.23000000024,
+        "total_acordos": 48057.36,
+        "total_debitos": 140324.87000000014
+    },
+    "73A": {
+        "total": 197054.88000000024,
+        "total_acordos": 48057.36,
+        "total_debitos": 148997.52000000014
+    },
+    "73B": {
+        "total": 301921.0699999999,
+        "total_acordos": 100863.96,
+        "total_debitos": 201057.11000000025
+    },
+    "74A": {
+        "total": 197386.96000000022,
+        "total_acordos": 48057.36,
+        "total_debitos": 149329.60000000012
+    },
+    "75A": {
+        "total": 197728.18000000023,
+        "total_acordos": 48057.36,
+        "total_debitos": 149670.82000000012
+    },
+    "75B": {
+        "total": 302218.1499999999,
+        "total_acordos": 100863.96,
+        "total_debitos": 201354.19000000024
+    },
+    "76A": {
+        "total": 198012.09000000023,
+        "total_acordos": 48057.36,
+        "total_debitos": 149954.73000000013
+    },
+    "77B": {
+        "total": 302486.42999999993,
+        "total_acordos": 100863.96,
+        "total_debitos": 201622.47000000023
+    },
+    "78A": {
+        "total": 198296.00000000023,
+        "total_acordos": 48057.36,
+        "total_debitos": 150238.64000000013
+    },
+    "78B": {
+        "total": 302770.3399999999,
+        "total_acordos": 100863.96,
+        "total_debitos": 201906.38000000024
+    },
+    "79A": {
+        "total": 198562.64000000025,
+        "total_acordos": 48057.36,
+        "total_debitos": 150505.28000000014
+    },
+    "7A": {
+        "total": 11695.690000000002,
+        "total_acordos": 7683.720000000002,
+        "total_debitos": 4011.97
+    },
+    "80A": {
+        "total": 199139.51000000024,
+        "total_acordos": 48057.36,
+        "total_debitos": 151082.15000000014
+    },
+    "80B": {
+        "total": 303347.2099999999,
+        "total_acordos": 100863.96,
+        "total_debitos": 202483.25000000023
+    },
+    "81A": {
+        "total": 117902.21000000002,
+        "total_acordos": 32525.600000000002,
+        "total_debitos": 85376.61000000002
+    },
+    "81B": {
+        "total": 222332.63000000024,
+        "total_acordos": 51096.57,
+        "total_debitos": 171236.0600000001
+    },
+    "82A": {
+        "total": 199433.29000000024,
+        "total_acordos": 48057.36,
+        "total_debitos": 151375.93000000014
+    },
+    "82B": {
+        "total": 303640.98999999993,
+        "total_acordos": 100863.96,
+        "total_debitos": 202777.03000000023
+    },
+    "83B": {
+        "total": 303950.3999999999,
+        "total_acordos": 100863.96,
+        "total_debitos": 203086.44000000024
+    },
+    "84A": {
+        "total": 199730.37000000023,
+        "total_acordos": 48057.36,
+        "total_debitos": 151673.01000000013
+    },
+    "84B": {
+        "total": 304247.4799999999,
+        "total_acordos": 100863.96,
+        "total_debitos": 203383.52000000022
+    },
+    "85A": {
+        "total": 200089.95000000022,
+        "total_acordos": 48057.36,
+        "total_debitos": 152032.5900000001
+    },
+    "85B": {
+        "total": 304579.55999999994,
+        "total_acordos": 100863.96,
+        "total_debitos": 203715.6000000002
+    },
+    "86A": {
+        "total": 200399.36000000022,
+        "total_acordos": 48057.36,
+        "total_debitos": 152342.00000000012
+    },
+    "86B": {
+        "total": 304888.9699999999,
+        "total_acordos": 100863.96,
+        "total_debitos": 204025.0100000002
+    },
+    "87A": {
+        "total": 200693.14000000022,
+        "total_acordos": 48057.36,
+        "total_debitos": 152635.78000000012
+    },
+    "87B": {
+        "total": 222932.81000000023,
+        "total_acordos": 51096.57,
+        "total_debitos": 171836.2400000001
+    },
+    "88A": {
+        "total": 201002.55000000022,
+        "total_acordos": 48057.36,
+        "total_debitos": 152945.19000000012
+    },
+    "88B": {
+        "total": 223310.83000000022,
+        "total_acordos": 51096.57,
+        "total_debitos": 172214.2600000001
+    },
+    "8A": {
+        "total": 198846.55000000025,
+        "total_acordos": 48057.36,
+        "total_debitos": 150789.19000000015
+    },
+    "8B": {
+        "total": 303054.2499999999,
+        "total_acordos": 100863.96,
+        "total_debitos": 202190.29000000024
+    },
+    "90A": {
+        "total": 201295.5100000002,
+        "total_acordos": 48057.36,
+        "total_debitos": 153238.1500000001
+    },
+    "90B": {
+        "total": 305181.92999999993,
+        "total_acordos": 100863.96,
+        "total_debitos": 204317.9700000002
+    },
+    "91A": {
+        "total": 201604.92000000022,
+        "total_acordos": 48057.36,
+        "total_debitos": 153547.5600000001
+    },
+    "92A": {
+        "total": 201898.70000000022,
+        "total_acordos": 48057.36,
+        "total_debitos": 153841.3400000001
+    },
+    "92B": {
+        "total": 225160.15000000023,
+        "total_acordos": 51096.57,
+        "total_debitos": 174063.5800000001
+    },
+    "93A": {
+        "total": 202243.11000000022,
+        "total_acordos": 48057.36,
+        "total_debitos": 154185.75000000012
+    },
+    "95B": {
+        "total": 305479.00999999995,
+        "total_acordos": 100863.96,
+        "total_debitos": 204615.0500000002
+    },
+    "96A": {
+        "total": 202552.52000000022,
+        "total_acordos": 48057.36,
+        "total_debitos": 154495.16000000012
+    },
+    "96B": {
+        "total": 305788.4199999999,
+        "total_acordos": 100863.96,
+        "total_debitos": 204924.4600000002
+    },
+    "97A": {
+        "total": 202846.30000000022,
+        "total_acordos": 48057.36,
+        "total_debitos": 154788.94000000012
+    },
+    "98A": {
+        "total": 203155.71000000022,
+        "total_acordos": 48057.36,
+        "total_debitos": 155098.35000000012
+    },
+    "98B": {
+        "total": 226574.9800000002,
+        "total_acordos": 51096.57,
+        "total_debitos": 175478.4100000001
+    },
+    "99A": {
+        "total": 203573.67000000022,
+        "total_acordos": 48057.36,
+        "total_debitos": 155516.3100000001
+    }
+}

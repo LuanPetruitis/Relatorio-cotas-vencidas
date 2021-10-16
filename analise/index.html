@@ -1,0 +1,716 @@
+
+			<!DOCTYPE html>
+			<html lang="en">
+			<head>
+			<style>
+			*{
+				box-sizing: border-box;
+				-webkit-box-sizing: border-box;
+				-moz-box-sizing: border-box;
+			}
+			body{
+				font-family: Helvetica;
+				-webkit-font-smoothing: antialiased;
+				background: gray;
+				min-height: 100vh;
+			}
+			h2{
+				text-align: center;
+				font-size: 18px;
+				letter-spacing: 1px;
+				color: black;
+				padding: 30px 0;
+			}
+			/* Table Styles */
+			.table-wrapper{
+				margin: 10px 70px 70px;
+				box-shadow: 0px 35px 50px rgba( 0, 0, 0, 0.2 );
+			}
+			.fl-table {
+				border-radius: 5px;
+				font-size: 12px;
+				font-weight: normal;
+				border: none;
+				border-collapse: collapse;
+				width: 100%;
+				max-width: 100%;
+				white-space: nowrap;
+				background-color: white;
+			}
+			.fl-table td, .fl-table th {
+				text-align: center;
+				padding: 8px;
+			}
+			.fl-table td {
+				border-right: 1px solid #f8f8f8;
+				font-size: 12px;
+			}
+			.fl-table thead th {
+				color: #ffffff;
+				background: #72242b;
+			}
+			.fl-table thead th:nth-child(odd) {
+				color: #ffffff;
+				background: #72242b;
+			}
+			.fl-table tr:nth-child(even) {
+				background: #F8F8F8;
+			}
+			/* Responsive */
+			@media (max-width: 767px) {
+				.fl-table {
+					display: block;
+					width: 100%;
+				}
+				.table-wrapper:before{
+					content: "Scroll horizontally >";
+					display: block;
+					text-align: right;
+					font-size: 11px;
+					color: white;
+				}
+				.fl-table thead, .fl-table tbody, .fl-table thead th {
+					display: block;
+				}
+				.fl-table thead th:last-child{
+					border-bottom: none;
+				}
+				.fl-table thead {
+					float: left;
+				}
+				.fl-table tbody {
+					width: auto;
+					position: relative;
+					overflow-x: auto;
+				}
+				.fl-table td, .fl-table th {
+					padding: 20px .625em .625em .625em;
+					height: 60px;
+					vertical-align: middle;
+					box-sizing: border-box;
+					overflow-x: hidden;
+					overflow-y: auto;
+					width: 120px;
+					font-size: 13px;
+					text-overflow: ellipsis;
+				}
+				.fl-table thead th {
+					text-align: left;
+					border-bottom: 1px solid #f7f7f9;
+				}
+				.fl-table tbody tr {
+					display: table-cell;
+				}
+				.fl-table tbody tr:nth-child(odd) {
+					background: none;
+				}
+				.fl-table tr:nth-child(even) {
+					background: transparent;
+				}
+				.fl-table tr td:nth-child(odd) {
+					background:  #72242b;
+					border-right: 1px solid #E6E4E4;
+				}
+				.fl-table tr td:nth-child(even) {
+					border-right: 1px solid #E6E4E4;
+				}
+				.fl-table tbody td {
+					display: block;
+					text-align: center;
+				}
+			}
+			</style>
+			</head>
+			<body>
+			<h2>Apartamentos com crédito a pagar - 16/10/2021 </h2>
+			<div class="table-wrapper">
+				<table class="fl-table">
+					<thead>
+					<tr>
+						<th>Unidade</th>
+						<th>Total devido</th>
+						<th>Total Acordo</th>
+						<th>Total</th>
+					</tr>
+					</thead>
+					<tbody>
+		
+					<tr>
+						<td>3 - A</td>
+						<td>R$ 2.134,58</td>
+						<td>R$ 507,00</td>
+						<td>R$ 2.641,58</td>
+					</tr>
+			
+					<tr>
+						<td>4 - A</td>
+						<td>R$ 1.241,49</td>
+						<td>R$ 7.176,72</td>
+						<td>R$ 8.418,21</td>
+					</tr>
+			
+					<tr>
+						<td>7 - A</td>
+						<td>R$ 323,48</td>
+						<td>R$ 0,00</td>
+						<td>R$ 323,48</td>
+					</tr>
+			
+					<tr>
+						<td>15 - A</td>
+						<td>R$ 22.912,58</td>
+						<td>R$ 0,00</td>
+						<td>R$ 22.912,58</td>
+					</tr>
+			
+					<tr>
+						<td>20 - A</td>
+						<td>R$ 1.487,19</td>
+						<td>R$ 392,96</td>
+						<td>R$ 1.880,15</td>
+					</tr>
+			
+					<tr>
+						<td>22 - A</td>
+						<td>R$ 787,30</td>
+						<td>R$ 0,00</td>
+						<td>R$ 787,30</td>
+					</tr>
+			
+					<tr>
+						<td>24 - A</td>
+						<td>R$ 272,39</td>
+						<td>R$ 0,00</td>
+						<td>R$ 272,39</td>
+					</tr>
+			
+					<tr>
+						<td>25 - A</td>
+						<td>R$ 272,39</td>
+						<td>R$ 0,00</td>
+						<td>R$ 272,39</td>
+					</tr>
+			
+					<tr>
+						<td>26 - A</td>
+						<td>R$ 283,91</td>
+						<td>R$ 4.450,86</td>
+						<td>R$ 4.734,77</td>
+					</tr>
+			
+					<tr>
+						<td>27 - A</td>
+						<td>R$ 268,28</td>
+						<td>R$ 0,00</td>
+						<td>R$ 268,28</td>
+					</tr>
+			
+					<tr>
+						<td>28 - A</td>
+						<td>R$ 36.257,25</td>
+						<td>R$ 0,00</td>
+						<td>R$ 36.257,25</td>
+					</tr>
+			
+					<tr>
+						<td>29 - A</td>
+						<td>R$ 579,48</td>
+						<td>R$ 0,00</td>
+						<td>R$ 579,48</td>
+					</tr>
+			
+					<tr>
+						<td>31 - A</td>
+						<td>R$ 533,91</td>
+						<td>R$ 997,32</td>
+						<td>R$ 1.531,23</td>
+					</tr>
+			
+					<tr>
+						<td>32 - A</td>
+						<td>R$ 268,28</td>
+						<td>R$ 0,00</td>
+						<td>R$ 268,28</td>
+					</tr>
+			
+					<tr>
+						<td>33 - A</td>
+						<td>R$ 567,82</td>
+						<td>R$ 4.194,00</td>
+						<td>R$ 4.761,82</td>
+					</tr>
+			
+					<tr>
+						<td>39 - A</td>
+						<td>R$ 310,78</td>
+						<td>R$ 0,00</td>
+						<td>R$ 310,78</td>
+					</tr>
+			
+					<tr>
+						<td>50 - A</td>
+						<td>R$ 579,48</td>
+						<td>R$ 0,00</td>
+						<td>R$ 579,48</td>
+					</tr>
+			
+					<tr>
+						<td>51 - A</td>
+						<td>R$ 567,82</td>
+						<td>R$ 6.370,56</td>
+						<td>R$ 6.938,38</td>
+					</tr>
+			
+					<tr>
+						<td>54 - A</td>
+						<td>R$ 272,39</td>
+						<td>R$ 2.833,01</td>
+						<td>R$ 3.105,40</td>
+					</tr>
+			
+					<tr>
+						<td>58 - A</td>
+						<td>R$ 283,91</td>
+						<td>R$ 0,00</td>
+						<td>R$ 283,91</td>
+					</tr>
+			
+					<tr>
+						<td>59 - A</td>
+						<td>R$ 1.060,06</td>
+						<td>R$ 9.084,00</td>
+						<td>R$ 10.144,06</td>
+					</tr>
+			
+					<tr>
+						<td>62 - A</td>
+						<td>R$ 268,28</td>
+						<td>R$ 0,00</td>
+						<td>R$ 268,28</td>
+					</tr>
+			
+					<tr>
+						<td>67 - A</td>
+						<td>R$ 268,28</td>
+						<td>R$ 0,00</td>
+						<td>R$ 268,28</td>
+					</tr>
+			
+					<tr>
+						<td>68 - A</td>
+						<td>R$ 283,91</td>
+						<td>R$ 0,00</td>
+						<td>R$ 283,91</td>
+					</tr>
+			
+					<tr>
+						<td>69 - A</td>
+						<td>R$ 266,64</td>
+						<td>R$ 0,00</td>
+						<td>R$ 266,64</td>
+					</tr>
+			
+					<tr>
+						<td>70 - A</td>
+						<td>R$ 14.531,01</td>
+						<td>R$ 0,00</td>
+						<td>R$ 14.531,01</td>
+					</tr>
+			
+					<tr>
+						<td>72 - A</td>
+						<td>R$ 293,78</td>
+						<td>R$ 0,00</td>
+						<td>R$ 293,78</td>
+					</tr>
+			
+					<tr>
+						<td>76 - A</td>
+						<td>R$ 283,91</td>
+						<td>R$ 0,00</td>
+						<td>R$ 283,91</td>
+					</tr>
+			
+					<tr>
+						<td>85 - A</td>
+						<td>R$ 62,50</td>
+						<td>R$ 0,00</td>
+						<td>R$ 62,50</td>
+					</tr>
+			
+					<tr>
+						<td>88 - A</td>
+						<td>R$ 309,41</td>
+						<td>R$ 0,00</td>
+						<td>R$ 309,41</td>
+					</tr>
+			
+					<tr>
+						<td>92 - A</td>
+						<td>R$ 293,78</td>
+						<td>R$ 0,00</td>
+						<td>R$ 293,78</td>
+					</tr>
+			
+					<tr>
+						<td>98 - A</td>
+						<td>R$ 309,41</td>
+						<td>R$ 0,00</td>
+						<td>R$ 309,41</td>
+					</tr>
+			
+					<tr>
+						<td>99 - A</td>
+						<td>R$ 125,00</td>
+						<td>R$ 0,00</td>
+						<td>R$ 125,00</td>
+					</tr>
+			
+					<tr>
+						<td>100 - A</td>
+						<td>R$ 292,96</td>
+						<td>R$ 0,00</td>
+						<td>R$ 292,96</td>
+					</tr>
+			
+					<tr>
+						<td>111 - A</td>
+						<td>R$ 309,41</td>
+						<td>R$ 0,00</td>
+						<td>R$ 309,41</td>
+					</tr>
+			
+					<tr>
+						<td>113 - A</td>
+						<td>R$ 309,41</td>
+						<td>R$ 0,00</td>
+						<td>R$ 309,41</td>
+					</tr>
+			
+					<tr>
+						<td>127 - A</td>
+						<td>R$ 0,00</td>
+						<td>R$ 4.232,00</td>
+						<td>R$ 4.232,00</td>
+					</tr>
+			
+					<tr>
+						<td>131 - A</td>
+						<td>R$ 309,41</td>
+						<td>R$ 0,00</td>
+						<td>R$ 309,41</td>
+					</tr>
+			
+					<tr>
+						<td>133 - A</td>
+						<td>R$ 309,41</td>
+						<td>R$ 0,00</td>
+						<td>R$ 309,41</td>
+					</tr>
+			
+					<tr>
+						<td>136 - A</td>
+						<td>R$ 309,41</td>
+						<td>R$ 0,00</td>
+						<td>R$ 309,41</td>
+					</tr>
+			
+					<tr>
+						<td>14 - A</td>
+						<td>R$ 24.368,61</td>
+						<td>R$ 0,00</td>
+						<td>R$ 24.368,61</td>
+					</tr>
+			
+					<tr>
+						<td>16 - A</td>
+						<td>R$ 283,91</td>
+						<td>R$ 0,00</td>
+						<td>R$ 283,91</td>
+					</tr>
+			
+					<tr>
+						<td>41 - A</td>
+						<td>R$ 0,00</td>
+						<td>R$ 6.000,00</td>
+						<td>R$ 6.000,00</td>
+					</tr>
+			
+					<tr>
+						<td>71 - A</td>
+						<td>R$ 12.319,43</td>
+						<td>R$ 0,00</td>
+						<td>R$ 12.319,43</td>
+					</tr>
+			
+					<tr>
+						<td>73 - A</td>
+						<td>R$ 8.363,24</td>
+						<td>R$ 0,00</td>
+						<td>R$ 8.363,24</td>
+					</tr>
+			
+					<tr>
+						<td>81 - A</td>
+						<td>R$ 364,09</td>
+						<td>R$ 0,00</td>
+						<td>R$ 364,09</td>
+					</tr>
+			
+					<tr>
+						<td>5 - B</td>
+						<td>R$ 272,39</td>
+						<td>R$ 0,00</td>
+						<td>R$ 272,39</td>
+					</tr>
+			
+					<tr>
+						<td>12 - B</td>
+						<td>R$ 0,00</td>
+						<td>R$ 2.643,79</td>
+						<td>R$ 2.643,79</td>
+					</tr>
+			
+					<tr>
+						<td>16 - B</td>
+						<td>R$ 567,82</td>
+						<td>R$ 0,00</td>
+						<td>R$ 567,82</td>
+					</tr>
+			
+					<tr>
+						<td>24 - B</td>
+						<td>R$ 272,39</td>
+						<td>R$ 0,00</td>
+						<td>R$ 272,39</td>
+					</tr>
+			
+					<tr>
+						<td>29 - B</td>
+						<td>R$ 266,64</td>
+						<td>R$ 0,00</td>
+						<td>R$ 266,64</td>
+					</tr>
+			
+					<tr>
+						<td>33 - B</td>
+						<td>R$ 605,69</td>
+						<td>R$ 0,00</td>
+						<td>R$ 605,69</td>
+					</tr>
+			
+					<tr>
+						<td>35 - B</td>
+						<td>R$ 3.425,90</td>
+						<td>R$ 395,42</td>
+						<td>R$ 3.821,32</td>
+					</tr>
+			
+					<tr>
+						<td>45 - B</td>
+						<td>R$ 272,39</td>
+						<td>R$ 14.000,00</td>
+						<td>R$ 14.272,39</td>
+					</tr>
+			
+					<tr>
+						<td>47 - B</td>
+						<td>R$ 536,56</td>
+						<td>R$ 0,00</td>
+						<td>R$ 536,56</td>
+					</tr>
+			
+					<tr>
+						<td>57 - B</td>
+						<td>R$ 268,28</td>
+						<td>R$ 0,00</td>
+						<td>R$ 268,28</td>
+					</tr>
+			
+					<tr>
+						<td>61 - B</td>
+						<td>R$ 283,91</td>
+						<td>R$ 0,00</td>
+						<td>R$ 283,91</td>
+					</tr>
+			
+					<tr>
+						<td>68 - B</td>
+						<td>R$ 283,91</td>
+						<td>R$ 0,00</td>
+						<td>R$ 283,91</td>
+					</tr>
+			
+					<tr>
+						<td>73 - B</td>
+						<td>R$ 309,41</td>
+						<td>R$ 0,00</td>
+						<td>R$ 309,41</td>
+					</tr>
+			
+					<tr>
+						<td>81 - B</td>
+						<td>R$ 1.305,79</td>
+						<td>R$ 0,00</td>
+						<td>R$ 1.305,79</td>
+					</tr>
+			
+					<tr>
+						<td>82 - B</td>
+						<td>R$ 293,78</td>
+						<td>R$ 0,00</td>
+						<td>R$ 293,78</td>
+					</tr>
+			
+					<tr>
+						<td>85 - B</td>
+						<td>R$ 332,08</td>
+						<td>R$ 0,00</td>
+						<td>R$ 332,08</td>
+					</tr>
+			
+					<tr>
+						<td>87 - B</td>
+						<td>R$ 306,40</td>
+						<td>R$ 0,00</td>
+						<td>R$ 306,40</td>
+					</tr>
+			
+					<tr>
+						<td>92 - B</td>
+						<td>R$ 1.849,32</td>
+						<td>R$ 0,00</td>
+						<td>R$ 1.849,32</td>
+					</tr>
+			
+					<tr>
+						<td>96 - B</td>
+						<td>R$ 309,41</td>
+						<td>R$ 0,00</td>
+						<td>R$ 309,41</td>
+					</tr>
+			
+					<tr>
+						<td>102 - B</td>
+						<td>R$ 641,13</td>
+						<td>R$ 0,00</td>
+						<td>R$ 641,13</td>
+					</tr>
+			
+					<tr>
+						<td>111 - B</td>
+						<td>R$ 618,82</td>
+						<td>R$ 0,00</td>
+						<td>R$ 618,82</td>
+					</tr>
+			
+					<tr>
+						<td>115 - B</td>
+						<td>R$ 297,08</td>
+						<td>R$ 0,00</td>
+						<td>R$ 297,08</td>
+					</tr>
+			
+					<tr>
+						<td>118 - B</td>
+						<td>R$ 309,41</td>
+						<td>R$ 0,00</td>
+						<td>R$ 309,41</td>
+					</tr>
+			
+					<tr>
+						<td>119 - B</td>
+						<td>R$ 292,96</td>
+						<td>R$ 0,00</td>
+						<td>R$ 292,96</td>
+					</tr>
+			
+					<tr>
+						<td>125 - B</td>
+						<td>R$ 0,00</td>
+						<td>R$ 14.247,62</td>
+						<td>R$ 14.247,62</td>
+					</tr>
+			
+					<tr>
+						<td>130 - B</td>
+						<td>R$ 2.655,75</td>
+						<td>R$ 1.821,25</td>
+						<td>R$ 4.477,00</td>
+					</tr>
+			
+					<tr>
+						<td>134 - B</td>
+						<td>R$ 62,50</td>
+						<td>R$ 0,00</td>
+						<td>R$ 62,50</td>
+					</tr>
+			
+					<tr>
+						<td>146 - B</td>
+						<td>R$ 292,96</td>
+						<td>R$ 0,00</td>
+						<td>R$ 292,96</td>
+					</tr>
+			
+					<tr>
+						<td>15 - B</td>
+						<td>R$ 0,00</td>
+						<td>R$ 698,52</td>
+						<td>R$ 698,52</td>
+					</tr>
+			
+					<tr>
+						<td>152 - B</td>
+						<td>R$ 354,04</td>
+						<td>R$ 0,00</td>
+						<td>R$ 354,04</td>
+					</tr>
+			
+					<tr>
+						<td>18 - B</td>
+						<td>R$ 0,00</td>
+						<td>R$ 19.000,00</td>
+						<td>R$ 19.000,00</td>
+					</tr>
+			
+					<tr>
+						<td>32 - B</td>
+						<td>R$ 368,80</td>
+						<td>R$ 0,00</td>
+						<td>R$ 368,80</td>
+					</tr>
+			
+					<tr>
+						<td>59 - B</td>
+						<td>R$ 6.250,86</td>
+						<td>R$ 0,00</td>
+						<td>R$ 6.250,86</td>
+					</tr>
+			
+					<tr>
+						<td>88 - B</td>
+						<td>R$ 378,02</td>
+						<td>R$ 0,00</td>
+						<td>R$ 378,02</td>
+					</tr>
+			
+					<tr>
+						<td>98 - B</td>
+						<td>R$ 1.105,42</td>
+						<td>R$ 0,00</td>
+						<td>R$ 1.105,42</td>
+					</tr>
+			 	
+					<tr>
+						<td>Total</td>
+						<td>R$ 161.489,79</td>
+						<td>R$ 99.045,03</td>
+						<td>R$ 260.534,82</td>
+					</tr>
+					<tbody>
+				</table>
+			</div>
+			</body>
+			</html>
+		
